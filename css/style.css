@@ -310,3 +310,55 @@ svg cover layer
   -moz-transition: opacity 0.6s;
   transition: opacity 0.6s;
 }
+
+/* -------------------------------- 
+  Style all font awesome icons 
+----------------------------------*/
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: 
+}
+
+/* Twitter */
+.fa-twitter {
+    background: 
+}
+
+/* Plus-Google */
+.fa-plus-google {
+    background: 
+}
+
+/* LinkedIn */
+.fa-linkedin {
+    background:
+}
