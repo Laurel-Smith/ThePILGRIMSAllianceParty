@@ -59,10 +59,14 @@ jQuery(document).ready(function(){
 				path3 = paths[4];
 				path4 = paths[6];
 				path5 = paths[8];
+				path4 = paths[6];
+				path5 = paths[8];
 		} else {
 			var path1 = paths[1],
 				path2 = paths[3],
 				path3 = paths[5];
+				path4 = paths[7];
+				path5 = paths[9];
 				path4 = paths[7];
 				path5 = paths[9];
 		}
